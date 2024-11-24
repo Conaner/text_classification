@@ -4,5 +4,5 @@
 *.egg
 *.egg-info
 *.txt
-*.pkl
+/data/
 
